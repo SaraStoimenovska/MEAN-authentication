@@ -17,16 +17,6 @@ var routesApi = require('./api/routes/index');
 
 var app = express();
 
-
-app.get("/all", (req, res, next) => {
-    res.json(["Tony","Lisa","Michael","Ginger","Food"]);    
-});
-
-
-
-
-
-
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
 app.use(bodyParser.json());
