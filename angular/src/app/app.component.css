@@ -1,0 +1,9 @@
+.container {
+  background: linear-gradient(white, #eff4f5);
+  border-bottom: 3px solid #e5edee;
+  width: 100%;
+}
+
+.navbar-nav a {
+  color: #1b5581 !important;
+}

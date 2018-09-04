@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+}
